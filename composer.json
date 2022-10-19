@@ -2,10 +2,10 @@
   "name": "riskified/magento2new",
   "type": "magento2-module",
   "description": "Riskified decider module for Magento 2",
-  "version": "1.10.1",
+  "version": "1.10.2",
   "require": {
     "magento/framework": ">=100.1.0",
-    "riskified/php_sdk": "*"
+    "riskified/php_sdk": ">=1.9.3"
   },
   "autoload": {
     "files": ["registration.php"],
